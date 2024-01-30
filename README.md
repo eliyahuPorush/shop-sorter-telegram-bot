@@ -1,6 +1,6 @@
 ﻿# Supermarket Shopping List Sorter Bot
 
-Welcome to the Supermarket Shopping List Sorter Bot! This bot helps you organize your shopping list based on supermarket categories. Developed using .NET 8 and integrating the power of the OpenAI GPT API, this bot streamlines your shopping experience by categorizing items efficiently.
+Welcome to the Supermarket Shopping List Sorter Bot! This bot helps you organize your shopping list based on supermarket categories. Developed using **.NET 8** and integrating the power of the **OpenAI GPT API**, this bot streamlines your shopping experience by categorizing items efficiently.
 
 ## Features
 
